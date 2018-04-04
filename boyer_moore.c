@@ -1,5 +1,5 @@
 /**
- *	Kmp string matching algorithm
+ *	boyer moore string matching algorithm
 **/
 
 #include<stdio.h>
